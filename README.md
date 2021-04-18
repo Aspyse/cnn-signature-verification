@@ -1,4 +1,4 @@
 # cnn-signature-verification
-An implementation of convolutional neural networks for writerless signature verification. Originally run using Google Colab. Created as a the output for the Research 1 subject.
+An implementation of convolutional neural networks for writerless signature verification. Originally run using Google Colab. Created as a the output for the PSHS Research 1 subject.
 
 cs_research_1.ipynb standardizes and compiles sigcomp datasets across different years, while cs_research_2_old.ipynb trains the convolutional neural network using tensorflow, to classify signatures as either genuine or fake.
